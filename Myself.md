@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sachinkanna07
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CSE
-- 📫 reach me on insta @_s_a_c_h_i_n__7_
+- 📫 reach me on insta @_.sachin7._
 - 😄 Pronouns: don't share your big dreams to small people
 
 

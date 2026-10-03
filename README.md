@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin%20Kanna%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkanna12)
 [![GitHub](https://img.shields.io/badge/GitHub-Sachinkanna07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachinkanna07)
-![Profile Views](https://komarev.com/ghpvc/?username=Sachinkanna07&style=for-the-badge)
 
 </div>
 

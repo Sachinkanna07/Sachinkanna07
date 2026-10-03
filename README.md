@@ -43,10 +43,12 @@ A bilingual English–Tamil agricultural procurement PWA created as a complete b
 ➡️ [View repository](https://github.com/Sachinkanna07/DOT)  
 ➡️ [Live demo](https://dot-blond.vercel.app/)
 
-### 🤖 Sachin AI Chat
-A Python + Streamlit AI chat application using Google's Gemini API with credentials handled through environment variables or Streamlit secrets.
+### 🧠 ContextOS
+A local-first AI memory runtime focused on retrieval, temporal memory, privacy, and context preparation for LLM-based applications.
 
-➡️ [View repository](https://github.com/Sachinkanna07/AI-app)
+**Highlights:** hybrid retrieval, SQLite persistence, temporal memory, MCP support, privacy controls, bounded context generation, benchmarking, and explainability.
+
+➡️ [View repository](https://github.com/Sachinkanna07/ContextOS)
 
 ## 🎯 Current Goal
 

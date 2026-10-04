@@ -177,6 +177,8 @@ I'm interested in **software engineering internships, backend/full-stack opportu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkanna12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sachinkanna12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinkanna12/)
+[![Email](https://img.shields.io/badge/Email-sachinkannasankar%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sachinkannasankar@outlook.com)
 [![GitHub](https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachinkanna07)
 
 <br/><br/>

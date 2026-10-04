@@ -110,7 +110,7 @@ A smart digital procurement platform for farmers with bilingual support and a co
 - Payment-demo records
 - Automated browser testing
 
-**Stack:** TypeScript · Next.js · PWA · Playwright · Vercel
+**Stack:** React · TypeScript · Vite · Tailwind CSS · PWA · Playwright · Vercel
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sachinkanna07/Kish)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://kish-app.vercel.app/)

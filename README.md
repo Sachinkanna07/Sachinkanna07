@@ -120,15 +120,21 @@ A smart digital procurement platform for farmers with bilingual support and a co
 
 ### 🤖 Sachin AI Chat
 
-A small Python + Streamlit project for experimenting with conversational AI using the Gemini API.
+A lightweight conversational AI project built with Python and Streamlit, currently serving as the base for a larger AI application upgrade.
 
-**Highlights**
+**Current**
 - Streamlit chat interface
 - Gemini-powered responses
 - Environment/secrets-based API configuration
-- Lightweight and easy to run locally
+- Lightweight local setup
 
-**Stack:** Python · Streamlit · Gemini API
+**Next**
+- Expand beyond basic chat into a more capable AI application
+- Improve product UX, memory/context handling, and tool integration
+- Add stronger evaluation and deployment workflows
+
+**Stack:** Python · Streamlit · Gemini API  
+**Status:** Active upgrade planned
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sachinkanna07/AI-app)
 

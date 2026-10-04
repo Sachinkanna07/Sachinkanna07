@@ -4,6 +4,8 @@
 
 ### Computer Science Engineering Student @ KPRIET
 
+**Full-Stack & Backend Development · Applied AI · Java · Python · Next.js · PostgreSQL**
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Full-Stack+%26+Backend+Development;Applied+AI+%26+Practical+Software;Building+Real+Projects+%7C+Learning+Every+Day)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin%20Kanna%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkanna12)
@@ -178,7 +180,7 @@ I'm interested in **software engineering internships, backend/full-stack opportu
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkanna12)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sachinkanna12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinkanna12/)
-[![Email](https://img.shields.io/badge/Email-sachinkannasankar%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sachinkannasankar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sachinkannasankar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkannasankar@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachinkanna07)
 
 <br/><br/>

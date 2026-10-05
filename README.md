@@ -101,11 +101,12 @@ A local-first AI memory runtime that experiments with how useful context can be 
 
 ### 🌾 KISH
 
-A smart digital procurement platform for farmers with bilingual support and a complete procurement workflow.
+A mobile-first digital procurement platform for farmers with bilingual support and a complete procurement workflow. KISH works best on mobile and can be installed directly from a supported mobile browser as a PWA.
 
 **Highlights**
 - English–Tamil interface
-- Installable PWA
+- Mobile-first experience
+- Installable PWA from supported mobile browsers
 - Booking and procurement workflows
 - Farmer/admin-oriented flows
 - Offline support

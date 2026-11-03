@@ -14,6 +14,8 @@ Computer Science Engineering student at **KPRIET**, building products and explor
 
 ---
 
+![Explore, build, learn, repeat](assets/journey.svg)
+
 ## ✦ A little about me
 
 I enjoy working across the product, from the interface someone sees to the backend decisions that make it work. My interests include **full-stack development**, **backend systems**, and **applied AI**, especially retrieval and memory.
@@ -47,8 +49,6 @@ Giggle Gallery uses test-mode payments. KISH is a procurement workflow prototype
 
 </details>
 
-Each repository describes its own setup, current state and limitations.
-
 ## ⚙️ Tools I work with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -71,5 +71,57 @@ Each repository describes its own setup, current state and limitations.
 [Let's connect on LinkedIn](https://www.linkedin.com/in/sachinkanna12) · [Send me an email](mailto:sachinkannasankar@gmail.com)
 
 <sub>Build → Learn → Improve → Share</sub>
+
+</div>
+
+---
+
+## 🎮 The explorer's corner
+
+**Choose a path, then reveal the answer.** No sign-in, setup, or special controls needed.
+
+### Level 01 · Pick your mission
+
+<details>
+<summary>🧠 I want to explore AI memory</summary>
+
+**Mission unlocked:** See how [ContextOS](https://github.com/Sachinkanna07/ContextOS) stores and retrieves context. Start with its architecture and evidence sections.
+
+</details>
+
+<details>
+<summary>🎨 I want to explore a marketplace</summary>
+
+**Mission unlocked:** Visit [Giggle Gallery](https://github.com/Sachinkanna07/Giggle-Gallery) and follow the journey from artwork discovery to checkout and auctions. Payments are in test mode.
+
+</details>
+
+<details>
+<summary>🌾 I want to explore a real-world workflow</summary>
+
+**Mission unlocked:** Follow the farmer-to-procurement journey in [KISH](https://github.com/Sachinkanna07/Kish), a bilingual workflow prototype.
+
+</details>
+
+### Level 02 · Quick challenge
+
+Which project focuses on **local-first memory and context**?
+
+<details>
+<summary>Reveal the answer</summary>
+
+🧠 **ContextOS.** It explores memory persistence, retrieval and context selection for AI applications. [Explore ContextOS →](https://github.com/Sachinkanna07/ContextOS)
+
+</details>
+
+### Level 03 · Your turn
+
+Have an idea, question or project you'd like to discuss? [Connect with me on LinkedIn](https://www.linkedin.com/in/sachinkanna12) or [send an email](mailto:sachinkannasankar@gmail.com).
+
+<div align="center">
+
+`EXPLORER STATUS: MISSION COMPLETE ✦`
+
+**Thanks for stopping by. Keep building.**
 
 </div>

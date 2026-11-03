@@ -25,33 +25,18 @@ CURRENTLY EXPLORING
 └── Growing as a builder  Java DSA · testing · system design
 ```
 
-## ◈ Projects I've built
+## ◈ Selected work
 
-### 🎨 [Giggle Gallery](https://github.com/Sachinkanna07/Giggle-Gallery) · A marketplace for digital art
+A few projects where I explore products, systems and practical AI. Select a card to see its repository.
 
-A marketplace bringing collectors and artists together, with buyer, seller and admin workflows, fixed-price checkout and auctions.
+<a href="https://github.com/Sachinkanna07/Giggle-Gallery"><img src="assets/giggle-card.svg" alt="Giggle Gallery: a digital art marketplace with auctions, built with Next.js, TypeScript and PostgreSQL" width="49%"></a>
+<a href="https://github.com/Sachinkanna07/ContextOS"><img src="assets/contextos-card.svg" alt="ContextOS: local-first memory for AI, built with Python, SQLite and MCP" width="49%"></a>
+<a href="https://github.com/Sachinkanna07/Kish"><img src="assets/kish-card.svg" alt="KISH: a bilingual, mobile-first procurement prototype built with React, TypeScript and PWA technology" width="49%"></a>
+<a href="https://github.com/Sachinkanna07/Civora"><img src="assets/civora-card.svg" alt="Civora: a campus app built with Kotlin, Jetpack Compose and Firebase" width="49%"></a>
 
-`Next.js` `TypeScript` `PostgreSQL` · [Visit the demo ↗](https://giggle-gallery-pi.vercel.app/)
+**Try the demos:** [Giggle Gallery ↗](https://giggle-gallery-pi.vercel.app/) · [KISH ↗](https://kish-app.vercel.app/)
 
-> Payments are configured in test mode.
-
-### 🧠 [ContextOS](https://github.com/Sachinkanna07/ContextOS) · Memory for AI applications
-
-A local-first memory and context runtime exploring retrieval, privacy boundaries and connections to language models.
-
-`Python` `SQLite` `MCP` · [Explore the repository ↗](https://github.com/Sachinkanna07/ContextOS)
-
-### 🌾 [KISH](https://github.com/Sachinkanna07/Kish) · Procurement, designed for mobile
-
-A bilingual English–Tamil prototype following a farmer's journey through booking and procurement workflows.
-
-`React` `TypeScript` `PWA` · [Visit the demo ↗](https://kish-app.vercel.app/)
-
-### 🏫 [Civora](https://github.com/Sachinkanna07/Civora) · Campus life in one place
-
-An Android campus app bringing information and workflows for students and campus teams together.
-
-`Kotlin` `Jetpack Compose` `Firebase` · [Explore the repository ↗](https://github.com/Sachinkanna07/Civora)
+Giggle Gallery uses test-mode payments. KISH is a procurement workflow prototype. See each repository for its current status and limitations.
 
 <details>
 <summary><b>More experiments and prototypes</b></summary>

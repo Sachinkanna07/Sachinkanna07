@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sachin Kanna M — building ideas into useful software</title><desc id="desc">A navy and teal banner with a network of connected dots.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1024"/><stop offset="1" stop-color="#163454"/></linearGradient><linearGradient id="accent"><stop stop-color="#57e4c1"/><stop offset="1" stop-color="#82aaff"/></linearGradient></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#6ccfca" opacity=".24" stroke-width="2"><path d="M830 0 930 85 1100 48 1200 130M930 85 1020 180 1180 230M830 0 790 160 930 85M790 160 900 270 1020 180 1100 320M900 270 790 320"/><circle cx="930" cy="85" r="50"/><circle cx="1020" cy="180" r="82"/></g>
+<g fill="#82e4d0" opacity=".8"><circle cx="930" cy="85" r="5"/><circle cx="1020" cy="180" r="6"/><circle cx="790" cy="160" r="5"/><circle cx="900" cy="270" r="5"/><circle cx="1100" cy="48" r="4"/></g>
+<rect x="70" y="57" width="90" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="70" y="136" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" fill="#f4f8ff">SACHIN KANNA M</text>
+<text x="72" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#a8e8da">Ideas → systems → experiences</text>
+<text x="72" y="242" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2" fill="#bdcbe2">FULL-STACK  /  BACKEND  /  APPLIED AI</text>
+</svg>

@@ -1,85 +1,60 @@
 <p align="center">
-  <img src="assets/profile-hero.gif" alt="Sachin Kanna M — building with purpose. Full-stack, backend and applied AI." width="100%">
+  <img src="assets/portfolio-cover.svg" width="100%" alt="Sachin Kanna M. Full-stack, Android and applied AI. Computer Science Engineering at KPRIET.">
 </p>
 
-<div align="center">
+Hi, I’m Sachin. I study Computer Science Engineering at KPRIET and build software for the steps people actually take: buying a piece of art, checking in at a campus event, or telling an AI assistant that a preference has changed.
 
-### Hi, I'm Sachin 👋
+I’m looking for **software engineering internships**. I especially enjoy working where a user interface meets a tricky backend problem.
 
-**Computer Science Engineering student at KPRIET**  
-I enjoy taking an idea from an early concept to an experience people can use.
+[LinkedIn](https://www.linkedin.com/in/sachinkanna12) · [Email me](mailto:sachinkannasankar@gmail.com) · [LeetCode](https://leetcode.com/u/sachinkanna12/) · [Browse my repositories](https://github.com/Sachinkanna07?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkanna12)
-[![Email](https://img.shields.io/badge/Email-Say_hello-26344C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkannasankar@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-252525?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sachinkanna12/)
+## Pick a project
 
-</div>
+| Project | Something you can try |
+| --- | --- |
+| **[ContextOS](https://github.com/Sachinkanna07/ContextOS)** · Python, SQLite | Give an assistant a preference, change your mind, and inspect the memory it retrieves next. [Run the offline demo](https://github.com/Sachinkanna07/ContextOS/blob/main/docs/demo.md) |
+| **[Giggle Gallery](https://github.com/Sachinkanna07/Giggle-Gallery)** · Next.js, PostgreSQL | Browse artists and artwork, then follow a piece from the storefront into checkout. Payments use test mode. [Visit the gallery](https://giggle-gallery-pi.vercel.app/) |
+| **[Civora](https://github.com/Sachinkanna07/Civora)** · Kotlin, Jetpack Compose, Firebase | See how a campus event registration becomes a QR ticket on Android. [Open the ticket screen](https://github.com/Sachinkanna07/Civora/blob/master/demo/screenshots/07-event-ticket.png) |
+| **[KISH](https://github.com/Sachinkanna07/Kish)** · React, TypeScript | Walk through a crop delivery in English or Tamil, from booking at a centre to receiving a sample receipt. [Open the demo](https://kish-app.vercel.app/) |
 
----
+## Inside the code
 
-## 01 &nbsp; / &nbsp; The work
+<details>
+<summary><strong>How does ContextOS handle a changed preference?</strong></summary>
 
-I like projects that bring product thinking and engineering together: a useful interface, clear workflows, and the systems behind them.
+The demo writes two versions of a preference to a temporary SQLite database. It then builds context for a model and lets you inspect the result. Once ContextOS is installed, you can reproduce the sequence locally.
 
-<a href="https://github.com/Sachinkanna07/Giggle-Gallery"><img src="assets/giggle-card.svg" alt="Giggle Gallery — digital art marketplace, built with Next.js, TypeScript and PostgreSQL" width="49%"></a>
-<a href="https://github.com/Sachinkanna07/ContextOS"><img src="assets/contextos-card.svg" alt="ContextOS — local-first AI memory runtime, built with Python, SQLite and MCP" width="49%"></a>
-
-**[Giggle Gallery](https://github.com/Sachinkanna07/Giggle-Gallery)** · Art discovery, seller workflows, checkout and auctions. [Visit demo ↗](https://giggle-gallery-pi.vercel.app/)  
-<sub>Payments use test mode.</sub>
-
-**[ContextOS](https://github.com/Sachinkanna07/ContextOS)** · Local-first memory, retrieval and context selection for AI applications. [Explore project ↗](https://github.com/Sachinkanna07/ContextOS)
-
-<a href="https://github.com/Sachinkanna07/Kish"><img src="assets/kish-card.svg" alt="KISH — bilingual mobile-first procurement prototype, built with React and TypeScript" width="49%"></a>
-<a href="https://github.com/Sachinkanna07/Civora"><img src="assets/civora-card.svg" alt="Civora — campus app built with Kotlin, Jetpack Compose and Firebase" width="49%"></a>
-
-**[KISH](https://github.com/Sachinkanna07/Kish)** · A bilingual prototype for the farmer-to-procurement journey. [Visit demo ↗](https://kish-app.vercel.app/)
-
-**[Civora](https://github.com/Sachinkanna07/Civora)** · A native Android app bringing campus information and workflows together. [Explore project ↗](https://github.com/Sachinkanna07/Civora)
-
-**More explorations:** [Sachin AI Chat](https://github.com/Sachinkanna07/AI-app) · [Solvynk prototype](https://github.com/Sachinkanna07/solvynk)
-
-<sub>Each repository documents its current capabilities, setup and limitations.</sub>
-
----
-
-## 02 &nbsp; / &nbsp; What I'm exploring
-
-```text
-PRODUCT      →  Useful interfaces and connected user journeys
-BACKEND      →  APIs, databases, authentication and reliability
-APPLIED AI   →  Retrieval, memory and practical AI-powered tools
-FOUNDATIONS  →  Java problem solving, testing and system design
+```sh
+contextos demo --json
 ```
 
-## 03 &nbsp; / &nbsp; The toolkit
+[Follow the walkthrough](https://github.com/Sachinkanna07/ContextOS/blob/main/docs/demo.md) · [Read the demo implementation](https://github.com/Sachinkanna07/ContextOS/blob/main/src/contextos/demo.py)
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-162338?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![Python](https://img.shields.io/badge/Python-162338?style=for-the-badge&logo=python&logoColor=77B9ED)
-![JavaScript](https://img.shields.io/badge/JavaScript-162338?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-162338?style=for-the-badge&logo=typescript&logoColor=70B7FF)
+</details>
 
-**Web & data**  
-![React](https://img.shields.io/badge/React-162338?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-162338?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-162338?style=for-the-badge&logo=fastapi&logoColor=57DBC4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-162338?style=for-the-badge&logo=postgresql&logoColor=8DBDE5)
+<details>
+<summary><strong>What happens if two buyers want the same artwork?</strong></summary>
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-162338?style=for-the-badge&logo=git&logoColor=F78068)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-162338?style=for-the-badge&logo=githubactions&logoColor=79B8FF)
-![Docker](https://img.shields.io/badge/Docker-162338?style=for-the-badge&logo=docker&logoColor=59B6F9)
+In Giggle Gallery, adding a piece to a cart is only the first step. At checkout, the server locks the artwork rows and checks the available quantity and current price before creating the payment order.
 
----
+[Read the checkout action](https://github.com/Sachinkanna07/Giggle-Gallery/blob/main/app/actions/checkout.ts) · [Explore the checkout tests](https://github.com/Sachinkanna07/Giggle-Gallery/blob/main/tests/unit/checkout.test.ts)
 
-<div align="center">
+</details>
 
-### Let's build something useful.
+<details>
+<summary><strong>What does the campus app look like on a phone?</strong></summary>
 
-I'm interested in **software engineering internships**, applied AI, and collaborations where I can learn and contribute.
+These screens come from Civora running on an Android emulator with fictional campus data. Open either image for a closer look.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/sachinkanna12) &nbsp; • &nbsp; [Send an email](mailto:sachinkannasankar@gmail.com) &nbsp; • &nbsp; [Explore my repositories](https://github.com/Sachinkanna07?tab=repositories)
+<a href="https://github.com/Sachinkanna07/Civora/blob/master/demo/screenshots/06-events.png"><img src="https://raw.githubusercontent.com/Sachinkanna07/Civora/master/demo/screenshots/06-events.png" width="190" alt="Civora campus events screen on Android"></a>
+<a href="https://github.com/Sachinkanna07/Civora/blob/master/demo/screenshots/07-event-ticket.png"><img src="https://raw.githubusercontent.com/Sachinkanna07/Civora/master/demo/screenshots/07-event-ticket.png" width="190" alt="Civora QR ticket for a fictional campus workshop"></a>
 
-<sub>IDEAS → BUILD → LEARN → IMPROVE</sub>
+[View the full emulator walkthrough](https://github.com/Sachinkanna07/Civora/tree/master/demo)
 
-</div>
+</details>
+
+## More from my workbench
+
+- **[College Event Registration Portal](https://github.com/Sachinkanna07/college-event-registration-portal)** — a Java and MySQL coursework project that reserves event seats and lets students look up a confirmation code.
+- **[Solvynk / BuildSocial](https://github.com/Sachinkanna07/solvynk)** — a clickable prototype for matching projects to real-world problems and exploring which requirements a project covers.
+- **[Sachin AI Chat](https://github.com/Sachinkanna07/AI-app)** — an early Streamlit experiment that sends a single question to Gemini.
